@@ -15,3 +15,5 @@ Så laver jeg en pull-request på den.
 
 Hvorefter nogen (Det var vist mig, men burde nok have været Lorna) 
 merger mine ændringsforslag ind i stammen af dokumentet.
+
+Marianne har forstået ~~næsten~~ lige så *meget* som Christian
